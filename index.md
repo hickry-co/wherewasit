@@ -19,7 +19,7 @@ Son güncelleme / Last updated: 26 Ekim 2026 / October 26, 2026
 - **Silme:** Uygulamayı silersen cihazdaki veriler silinir. iCloud eşitleme kullandıysan iCloud ayarlarından uygulama verisini de silebilirsin.
 - **Çocuklar:** Uygulama kişisel veri toplamadığı için çocuklardan da veri toplamaz.
 
-İletişim: hi@hickry.co
+İletişim: wherewasit@hickry.co
 
 ## English
 
@@ -36,4 +36,4 @@ Son güncelleme / Last updated: 26 Ekim 2026 / October 26, 2026
 - **Deletion:** deleting the app removes on-device data. If you used iCloud sync you can also remove app data in iCloud settings.
 - **Children:** the app collects no personal data, including from children.
 
-Contact: hi@hickry.co
+Contact: wherewasit@hickry.co
